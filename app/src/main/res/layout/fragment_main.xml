@@ -7,7 +7,7 @@
     <TextView
         android:textStyle="bold"
         android:textSize="14sp"
-        android:text="Activity"
+        android:text="Fragment"
         android:textColor="#FFECB3"
         android:layout_centerHorizontal="true"
         android:layout_alignParentTop="true"
